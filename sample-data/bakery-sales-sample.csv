@@ -1,0 +1,21 @@
+date,product,category,quantity_sold,revenue,inventory_on_hand
+2026-05-01,Chocolate Cupcake,Cupcakes,34,136,80
+2026-05-01,Vanilla Cupcake,Cupcakes,28,112,70
+2026-05-01,Croissant,Pastries,18,90,40
+2026-05-01,Blueberry Muffin,Muffins,22,88,55
+2026-05-02,Chocolate Cupcake,Cupcakes,45,180,50
+2026-05-02,Vanilla Cupcake,Cupcakes,30,120,48
+2026-05-02,Croissant,Pastries,12,60,35
+2026-05-02,Blueberry Muffin,Muffins,19,76,44
+2026-05-03,Chocolate Cupcake,Cupcakes,51,204,35
+2026-05-03,Vanilla Cupcake,Cupcakes,36,144,30
+2026-05-03,Croissant,Pastries,10,50,25
+2026-05-03,Blueberry Muffin,Muffins,17,68,38
+2026-05-04,Chocolate Cupcake,Cupcakes,55,220,20
+2026-05-04,Vanilla Cupcake,Cupcakes,33,132,22
+2026-05-04,Croissant,Pastries,14,70,18
+2026-05-04,Blueberry Muffin,Muffins,15,60,31
+2026-05-05,Chocolate Cupcake,Cupcakes,39,156,62
+2026-05-05,Vanilla Cupcake,Cupcakes,26,104,58
+2026-05-05,Croissant,Pastries,20,100,42
+2026-05-05,Blueberry Muffin,Muffins,24,96,51
