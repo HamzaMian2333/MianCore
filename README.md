@@ -38,6 +38,14 @@ The AI can recommend, summarize, and draft actions, but the business owner appro
 - Creates order draft
 - Sends order to owner dashboard for approval
 
+## Intern Workflow
+
+1. Pick an issue from GitHub Issues.
+2. Create a feature branch.
+3. Commit your changes.
+4. Open a pull request.
+5. Wait for review before merging.
+
 ## Tech Stack
 
 Frontend: React / Next.js  
@@ -65,3 +73,4 @@ ai-agents/
 docs/
 sample-data/
 .github/
+
